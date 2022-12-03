@@ -13,5 +13,4 @@ import pandas as pd
 from dotenv import load_dotenv
 import alpaca_trade_api as tradeapi
 from MCForecastTools import MCSimulation
-
 %matplotlib inline
