@@ -5,7 +5,7 @@ In this challenge I am working at a fintech consulting firm that aims to benefit
 Installation Guide
 
 Before running the application first install the following dependencies.
-
+ 
 import os
 import requests
 import json
@@ -13,5 +13,5 @@ import pandas as pd
 from dotenv import load_dotenv
 import alpaca_trade_api as tradeapi
 from MCForecastTools import MCSimulation
+
 %matplotlib inline
- 
